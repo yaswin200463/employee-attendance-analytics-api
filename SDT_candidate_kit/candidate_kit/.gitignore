@@ -1,0 +1,21 @@
+
+.env
+.env.*
+!.env.example
+
+# Confidential assignment document
+PROBLEM_STATEMENT.docx
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE and test files
+.vscode/
+.pytest_cache/
+.coverage
+htmlcov/
